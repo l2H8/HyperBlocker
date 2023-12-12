@@ -44,7 +44,7 @@
 ||bytedns1.com^
 ||queniuuf.com^
 ||dgstatic.jd.com^
-||gds.alibabadns.com^
+||umeng.com.gds.alibabadns.com^
 ##字节穿山甲广告SDK
 ||pglstatp-toutiao.com^
 ||pangolin-sdk-toutiao.com^
