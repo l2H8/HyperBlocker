@@ -9,6 +9,7 @@
 ||umengcloud.com^
 ||ctobsnssdk.com^
 ||tencent-cloud.net^
+||dns.weixin.qq.com.cn^
 #拼多多
 ||4pn.cn^
 ||4a9.cn^
@@ -33,6 +34,7 @@
 /ad-sign.*/
 /fqnovelvod.*/
 /mgsdk-sign.*/
+/bytefcdnrd.*/
 ||bytelb.net^
 ||qianxun.com^
 ||queniusz.com^
