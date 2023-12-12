@@ -55,5 +55,7 @@
 ||shuzilm.cn^
 ||api.miwifi.com^
 ||mssdk.volces.com^
+||chengzijianzhan.com^
 ||h-adashbc.ut.taobao.com^
 ||baichuan-sdk.alicdn.com^
+||shark-tracer.netease.net^
