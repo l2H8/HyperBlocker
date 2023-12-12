@@ -52,7 +52,8 @@
 ||pangolin-sdk-toutiao-b.com^
 ||zijieapi.com.w.kunluncan.com^
 #other
-||h-adashbc.ut.taobao.com^
-||mssdk.volces.com^
 ||shuzilm.cn^
+||api.miwifi.com^
+||mssdk.volces.com^
+||h-adashbc.ut.taobao.com^
 ||baichuan-sdk.alicdn.com^
