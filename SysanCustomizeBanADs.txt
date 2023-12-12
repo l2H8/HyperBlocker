@@ -39,7 +39,6 @@
 /fqnovelvod.*/
 /mgsdk-sign.*/
 ||bytelb.net^
-||cdnhwc1.com^
 ||qianxun.com^
 ||ksyuncdn.com^
 ||queniusz.com^
