@@ -40,7 +40,6 @@
 /mgsdk-sign.*/
 ||bytelb.net^
 ||qianxun.com^
-||ksyuncdn.com^
 ||queniusz.com^
 ||bytedns1.com^
 ||queniuuf.com^
