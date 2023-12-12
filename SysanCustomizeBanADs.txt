@@ -56,8 +56,11 @@
 ||shuzilm.cn^
 ||api.miwifi.com^
 ||mssdk.volces.com^
+||httpdns.bcelive.com^
 ||chengzijianzhan.com^
 ||audid-api.taobao.com^
 ||h-adashbc.ut.taobao.com^
 ||baichuan-sdk.alicdn.com^
 ||shark-tracer.netease.net^
+||httpdns.browser.miui.com^
+||httpdns.push.oppomobile.com^
