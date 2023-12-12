@@ -3,6 +3,7 @@
 #######################################################
 #url=https://github.com/l2H8/SysanBanADs
 
+/nstool.*/
 ||ad7.com^
 ||umeng.com^
 ||umengcloud.com^
@@ -56,6 +57,7 @@
 ||api.miwifi.com^
 ||mssdk.volces.com^
 ||chengzijianzhan.com^
+||audid-api.taobao.com^
 ||h-adashbc.ut.taobao.com^
 ||baichuan-sdk.alicdn.com^
 ||shark-tracer.netease.net^
