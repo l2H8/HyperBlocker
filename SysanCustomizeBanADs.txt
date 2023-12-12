@@ -34,6 +34,7 @@
 ||bytedns1.com^
 ||queniuuf.com^
 ||dgstatic.jd.com^
+||gds.alibabadns.com^
 ||pglstatp-toutiao.com^
 ||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao-b.com^
