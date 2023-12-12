@@ -26,16 +26,13 @@
 0.0.0.0. appmetrica.yandex.ru
 0.0.0.0 share.jileme.net
 #字节系
-0.0.0.0 dig.durl.net
-0.0.0.0 activity-ag.awemeughun.com
-0.0.0.0 msync-im1-vip6-std.easemob.com
-0.0.0.0 sf3-ttcdn-tos.pstatp.com
-0.0.0.0 pglstatp-toutiao.com
-0.0.0.0 pangolin-sdk-toutiao.com
-0.0.0.0 pangolin-sdk-toutiao-b.com
-0.0.0.0 skdisplay.jd.com
-0.0.0.0 settings.ttwebview.com
-0.0.0.0 ksyuncdn.com
-0.0.0.0 bytedns1.com
-0.0.0.0 bytelb.net
-0.0.0.0 gds.alibabadns.com
+||bytelb.net^
+||cdnhwc1.com^
+||ksyuncdn.com^
+||queniusz.com^
+||bytedns1.com^
+||queniuuf.com^
+||dgstatic.jd.com^
+||pglstatp-toutiao.com^
+||pangolin-sdk-toutiao-b.com^
+||zijieapi.com.w.kunluncan.com^
