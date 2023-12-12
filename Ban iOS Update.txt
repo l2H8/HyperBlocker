@@ -2,3 +2,9 @@
 #GO FUCK U SELF CN ADs
 #######################################################
 #url=https://github.com/l2H8/SysanBanADs
+
+#IOS更新屏蔽
+0.0.0.0 ocsp.apple.com
+0.0.0.0 mesu.apple.com
+0.0.0.0 gdmf.apple.com
+0.0.0.0 world-gen.g.aaplimg.com
