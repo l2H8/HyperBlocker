@@ -6,3 +6,25 @@
 0.0.0.0 umengcloud.com
 0.0.0.0 ctobsnssdk.com
 0.0.0.0 teg.tencent-cloud.net
+#拼多多
+0.0.0.0 social.pinduoduo.com
+0.0.0.0 4pn.cn
+0.0.0.0 4a9.cn
+0.0.0.0 3p4.cn
+0.0.0.0 y4n.cn
+0.0.0.0 u7x.cn
+0.0.0.0 metrics.icloud.com
+0.0.0.0 aqdlt.com
+0.0.0.0 aqdz91.com
+0.0.0.0 aqdz149.com
+0.0.0.0. appmetrica.yandex.ru
+0.0.0.0 share.jileme.net
+#字节系
+0.0.0.0 dig.durl.net
+0.0.0.0 activity-ag.awemeughun.com
+0.0.0.0 msync-im1-vip6-std.easemob.com
+0.0.0.0 apd-pcdnwxlogin.teg.tencent-cloud.net
+0.0.0.0 sf3-ttcdn-tos.pstatp.com
+0.0.0.0 sf3-fe-tos.pglstatp-toutiao.com
+0.0.0.0 skdisplay.jd.com
+0.0.0.0 settings.ttwebview.com
