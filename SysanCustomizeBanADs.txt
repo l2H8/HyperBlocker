@@ -55,6 +55,7 @@
 ||dg.k.jd.com^
 ||api.miwifi.com^
 ||mssdk.volces.com^
+||adim.pinduoduo.com^
 ||chengzijianzhan.com^
 ||audid-api.taobao.com^
 ||httpdns.music.163.com^
