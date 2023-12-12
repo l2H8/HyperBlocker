@@ -6,6 +6,11 @@
 0.0.0.0 umengcloud.com
 0.0.0.0 ctobsnssdk.com
 0.0.0.0 teg.tencent-cloud.net
+0.0.0.0 ip6.arpa
+0.0.0.0 ipv4only.arpa
+0.0.0.0 _4443._https.dns.l2h8.cn
+0.0.0.0 _8999._https.mail.l2h8.cn
+0.0.0.0 _8998._https.pass.l2h8.cn
 #拼多多
 0.0.0.0 social.pinduoduo.com
 0.0.0.0 4pn.cn
