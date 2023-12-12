@@ -38,4 +38,4 @@
 0.0.0.0 ksyuncdn.com
 0.0.0.0 bytedns1.com
 0.0.0.0 bytelb.net
-0.0.0.0 umeng.alibabacorp.com.gds.alibabadns.com
+0.0.0.0 gds.alibabadns.com
