@@ -34,5 +34,6 @@
 ||queniuuf.com^
 ||dgstatic.jd.com^
 ||pglstatp-toutiao.com^
+||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao-b.com^
 ||zijieapi.com.w.kunluncan.com^
