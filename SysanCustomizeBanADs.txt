@@ -54,3 +54,4 @@
 #other
 ||h-adashbc.ut.taobao.com^
 ||mssdk.volces.com^
+||shuzilm.cn^
