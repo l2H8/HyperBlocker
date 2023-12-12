@@ -28,6 +28,7 @@
 #字节系
 ||bytelb.net^
 ||cdnhwc1.com^
+||qianxun.com^
 ||ksyuncdn.com^
 ||queniusz.com^
 ||bytedns1.com^
