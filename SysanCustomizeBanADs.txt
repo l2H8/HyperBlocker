@@ -39,3 +39,5 @@
 ||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao-b.com^
 ||zijieapi.com.w.kunluncan.com^
+#other
+||adashbc.ut.taobao.com^
