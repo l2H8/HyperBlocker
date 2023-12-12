@@ -54,6 +54,7 @@
 ||zijieapi.com.w.kunluncan.com^
 #other
 ||shuzilm.cn^
+||dg.k.jd.com^
 ||api.miwifi.com^
 ||mssdk.volces.com^
 ||chengzijianzhan.com^
