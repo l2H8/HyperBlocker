@@ -9,11 +9,6 @@
 ||umengcloud.com^
 ||ctobsnssdk.com^
 ||tencent-cloud.net^
-||ip6.arpa^
-||ipv4only.arpa^
-||_4443._https.dns.l2h8.cn^
-||_8999._https.mail.l2h8.cn^
-||_8998._https.pass.l2h8.cn^
 #拼多多
 ||4pn.cn^
 ||4a9.cn^
