@@ -6,7 +6,7 @@
 0.0.0.0 umeng.com
 0.0.0.0 umengcloud.com
 0.0.0.0 ctobsnssdk.com
-0.0.0.0 teg.tencent-cloud.net
+0.0.0.0 tencent-cloud.net
 0.0.0.0 ip6.arpa
 0.0.0.0 ipv4only.arpa
 0.0.0.0 _4443._https.dns.l2h8.cn
@@ -29,8 +29,7 @@
 0.0.0.0 dig.durl.net
 0.0.0.0 activity-ag.awemeughun.com
 0.0.0.0 msync-im1-vip6-std.easemob.com
-0.0.0.0 apd-pcdnwxlogin.teg.tencent-cloud.net
 0.0.0.0 sf3-ttcdn-tos.pstatp.com
-0.0.0.0 sf3-fe-tos.pglstatp-toutiao.com
+0.0.0.0 pglstatp-toutiao.com
 0.0.0.0 skdisplay.jd.com
 0.0.0.0 settings.ttwebview.com
