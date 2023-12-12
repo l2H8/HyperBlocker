@@ -36,3 +36,4 @@
 0.0.0.0 settings.ttwebview.com
 0.0.0.0 ksyuncdn.com
 0.0.0.0 bytedns1.com
+0.0.0.0 bytelb.net
