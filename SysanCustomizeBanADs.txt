@@ -40,4 +40,4 @@
 ||pangolin-sdk-toutiao-b.com^
 ||zijieapi.com.w.kunluncan.com^
 #other
-||adashbc.ut.taobao.com^
+||h-adashbc.ut.taobao.com^
