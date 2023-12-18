@@ -22,6 +22,6 @@
 /umeng.*/
 /umengcloud.*/
 #小米
-/ad.*/
+/ad.mi.*/
 /ad1.*/
 /adv.*/
