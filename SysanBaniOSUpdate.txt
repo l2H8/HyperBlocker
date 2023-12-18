@@ -4,7 +4,7 @@
 #url=https://github.com/l2H8/SysanBanADs
 
 #IOS更新屏蔽
-0.0.0.0 ocsp.apple.com
-0.0.0.0 mesu.apple.com
-0.0.0.0 gdmf.apple.com
-0.0.0.0 world-gen.g.aaplimg.com
+||ocsp.apple.com^
+||mesu.apple.com^
+||gdmf.apple.com^
+||world-gen.g.aaplimg.com^
