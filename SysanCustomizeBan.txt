@@ -21,3 +21,7 @@
 #友盟广告
 /umeng.*/
 /umengcloud.*/
+#小米
+/ad.*/
+/ad1.*/
+/adv.*/
