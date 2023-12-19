@@ -5,6 +5,7 @@
 
 /nstool.*/
 ||ad7.com^
+||api.miwifi.com^
 ||dns.weixin.qq.com.cn^
 #字节系
 /snssdk.*/
