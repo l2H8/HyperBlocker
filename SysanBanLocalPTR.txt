@@ -5,3 +5,4 @@
 
 #banPTR
 ||ip6.arpa^
+||ipv4only.arpa^
