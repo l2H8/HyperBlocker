@@ -3,6 +3,9 @@
 #######################################################
 #url=https://github.com/l2H8/SysanBanADs
 
+#banPTR
+||ip6.arpa^
+||ipv4only.arpa^
 /nstool.*/
 ||ad7.com^
 ||api.miwifi.com^
