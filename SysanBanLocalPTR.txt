@@ -1,8 +1,0 @@
-#######################################################
-#GO FUCK U SELF CN ADs
-#######################################################
-#url=https://github.com/l2H8/SysanBanADs
-
-#banPTR
-||ip6.arpa^
-||ipv4only.arpa^
