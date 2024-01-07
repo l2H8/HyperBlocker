@@ -25,7 +25,6 @@
 #banPTR
 ||ip6.arpa^
 ||ipv4only.arpa^
-/nstool.*/
 ||ad7.com^
 ||api.miwifi.com^
 ||dns.weixin.qq.com.cn^
