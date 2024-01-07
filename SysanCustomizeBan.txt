@@ -31,6 +31,8 @@
 ||dns.weixin.qq.com.cn^
 ||open.e.kuaishou.com^
 ||flowplus.meituan.net^
+||eapi:.music.163.com^
+||ad.music.163.com^
 #qq音乐
 ||adstats.tencentmusic.com^
 ||ad.tencentmusic.com^
