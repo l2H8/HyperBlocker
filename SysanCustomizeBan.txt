@@ -30,6 +30,7 @@
 ||api.miwifi.com^
 ||dns.weixin.qq.com.cn^
 ||open.e.kuaishou.com^
+||flowplus.meituan.net^
 #qq音乐
 ||adstats.tencentmusic.com^
 ||ad.tencentmusic.com^
