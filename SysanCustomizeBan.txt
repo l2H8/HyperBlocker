@@ -26,6 +26,7 @@
 #######################################################
 #banPTR
 ||ip6.arpa^
+||in-addr.arpa^
 ||ipv4only.arpa^
 ||ad7.com^
 ||api.miwifi.com^
