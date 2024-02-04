@@ -37,6 +37,11 @@
 ||eapi:.music.163.com^
 ||ad.music.163.com^
 ||dgstatic.jd.com^
+||cm.bilibili.com^
+||adservice.google.com^
+||clientservices.googleapis.com^
+||ieonlinews.microsoft.com^
+||audid-api.taobao.com^
 #qq音乐
 ||adstats.tencentmusic.com^
 ||ad.tencentmusic.com^
