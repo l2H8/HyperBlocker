@@ -24,6 +24,9 @@
 #######################################################
 /mobilelog.*/
 /iadsdk.*/
+/baichuan.*/
+/baichuan-sdk.*/
+/danuoyi.*/
 #普通规则
 #######################################################
 #banPTR
@@ -87,4 +90,4 @@
 ||some.url^
 ||www.google-analytics.com^
 ||juejin.cn^
-
+||iuni.telecome.cn^
