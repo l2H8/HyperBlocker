@@ -16,6 +16,7 @@
 ||ad-*.net^
 ||mssdk.volces.com^
 ||log1.cmpassport.com^
+||toblog.ctobsnssdk.com^
 ||*.pglstatp-toutiao.com^
 ||tnc3-bjlgy.zijieapi.com^
 ||tnc3-alisc1.zijieapi.com^
