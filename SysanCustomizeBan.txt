@@ -38,6 +38,7 @@
 ||im-x.jd.com^
 ||tracking*.*^
 ||adv.ccb.com^
+||qchannel*.cn^
 ||knicks.jd.com^
 ||policy.jd.com^
 ||logs.amap.com^
@@ -53,15 +54,19 @@
 ||loggw.alipaydns.com^
 ||worldwide.sogou.com^
 ||collector.github.com^
+||openjmacs.m.taobao.com^
 ||zxid-m.mobileservice.cn^
 ||configsvr.msf.3g.qq.com^
 ||sdk.open.phone.igexin.com^
 ||events.data.microsoft.com^
+||amap-aos-info-nogw.amap.com^
 ||firebaselogging.googleapis.com^
+||nexusrules.officeapps.live.com^
 #小米
 ||api.sec.miui.com^
 ||tz.sec.xiaomi.com^
 ||a0.app.xiaomi.com^
+||metok.sys.miui.com^
 ||r.browser.miui.com^
 ||o2o.api.xiaomi.com^
 ||hd.browser.miui.com^
