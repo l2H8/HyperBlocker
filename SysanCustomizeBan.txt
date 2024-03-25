@@ -81,6 +81,7 @@
 ||miaozhen.com^
 ||qchannel*.cn^
 ||trace.qq.com^
+||als.baidu.com^
 ||beacon.qq.com^
 ||auth.wosms.cn^
 ||knicks.jd.com^
