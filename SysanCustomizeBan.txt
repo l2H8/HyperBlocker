@@ -29,7 +29,9 @@
 /shuzilm.*/
 #########################友盟广告########################
 /umeng.*/
+||umeng.com^
 /umengcloud.*/
+||umengcloud.com^
 ###########################网易##########################
 ||ir-sdk.dun.163.com^
 ||httpdns.n.netease.com^
@@ -76,6 +78,7 @@
 ||ipv6.kg.qq.com^
 ||log.tbs.qq.com^
 ||tmead.y.qq.com^
+||dgstatic.jd.com^
 ||wnsmusic.qq.com^
 ||cm.bilibili.com^
 ||cfg.imtt.qq.com^
