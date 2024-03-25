@@ -76,10 +76,11 @@
 ||adv.ccb.com^
 ||kl.67it.com^
 ||woozooo.com^
+||dg.k.jd.com^
+||woozooo.com^
 ||miaozhen.com^
 ||qchannel*.cn^
 ||trace.qq.com^
-||woozooo.com^
 ||beacon.qq.com^
 ||auth.wosms.cn^
 ||knicks.jd.com^
@@ -140,6 +141,7 @@
 ||sdk.open.phone.igexin.com^
 ||events.data.microsoft.com^
 ||amap-aos-info-nogw.amap.com^
+||dg.k.jd.com.gslb.qianxun.com^
 ||clientservices.googleapis.com^
 ||firebaselogging.googleapis.com^
 ||nexusrules.officeapps.live.com^
