@@ -42,6 +42,8 @@
 ||gepush.com^
 ||mdt.qq.com^
 ||pingfore*.*^
+||telecome.cn^
+||unioncom.cc^
 ||im-x.jd.com^
 ||tracking*.*^
 ||adv.ccb.com^
