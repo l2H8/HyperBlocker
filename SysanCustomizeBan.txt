@@ -5,6 +5,7 @@
 
 
 #字节系
+########################正则表达式#######################
 /snssdk.*/
 /lf.fqnovel.*/
 /ad-sign.*/
@@ -12,12 +13,14 @@
 /mgsdk-sign.*/
 /bytefcdnrd.*/
 /pangolin-sdk.*/
-/*.pglstatp-toutiao.com/
+#########################普通规则########################
 ||ad-*.net^
 ||mssdk.volces.com^
 ||log1.cmpassport.com^
+||*.pglstatp-toutiao.com^
 ||tnc3-bjlgy.zijieapi.com^
 ||tnc3-alisc1.zijieapi.com^
+||log-api.pangolin-sdk-toutiao.com^
 #数字联盟
 /shuzilm.*/
 #友盟广告
@@ -33,6 +36,7 @@
 ||id6.me^
 ||getui.net^
 ||getui.com^
+||gdt.qq.com^
 ||gepush.com^
 ||mdt.qq.com^
 ||im-x.jd.com^
@@ -53,7 +57,9 @@
 ||loggw.alipay.com.cn^
 ||loggw.alipaydns.com^
 ||worldwide.sogou.com^
+||dataflow.biliapi.com^
 ||collector.github.com^
+||adashbc.ut.taobao.com^
 ||openjmacs.m.taobao.com^
 ||zxid-m.mobileservice.cn^
 ||configsvr.msf.3g.qq.com^
