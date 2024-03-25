@@ -60,6 +60,7 @@
 ||firevent.jd.com^
 ||ynuf.aliapp.org^
 ||imageadv.ccb.com^
+||ios.bugly.qq.com^
 ||shouji.sogou.com^
 ||rdelivery.qq.com^
 ||data.bilibili.com^
@@ -76,6 +77,7 @@
 ||google-analytics.com^
 ||adashbc.ut.taobao.com^
 ||guid.tpns.tencent.com^
+||adashxgc.ut.taobao.com^
 ||openjmacs.m.taobao.com^
 ||zxid-m.mobileservice.cn^
 ||configsvr.msf.3g.qq.com^
