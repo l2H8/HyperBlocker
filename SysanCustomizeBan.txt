@@ -4,7 +4,6 @@
 #url=https://github.com/l2H8/SysanBanADs
 
 
-#字节系
 ########################正则表达式#######################
 /snssdk.*/
 /lf.fqnovel.*/
@@ -55,6 +54,7 @@
 ||imageadv.ccb.com^
 ||shouji.sogou.com^
 ||rdelivery.qq.com^
+||data.bilibili.com^
 ||loggw.alipay.com.cn^
 ||loggw.alipaydns.com^
 ||worldwide.sogou.com^
