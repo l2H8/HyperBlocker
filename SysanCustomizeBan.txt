@@ -68,6 +68,7 @@
 ||firevent.jd.com^
 ||ynuf.aliapp.org^
 ||up-hl.3g.qq.com^
+||crashlytics.com^
 ||mon.zijieapi.com^
 ||qqdata.ab.qq.com^
 ||yun-hl.3g.qq.com^
@@ -78,6 +79,7 @@
 ||data.bilibili.com^
 ||enrichgw.10010.com^
 ||metrics.icloud.com^
+||t7z.cupid.iqiyi.com^
 ||loggw.alipay.com.cn^
 ||loggw.alipaydns.com^
 ||worldwide.sogou.com^
@@ -93,6 +95,8 @@
 ||adashxgc.ut.taobao.com^
 ||openjmacs.m.taobao.com^
 ||qappcenterv6.3g.qq.com^
+||sdk-api-v1.singular.net^
+||beacon-api.aliyuncs.com^
 ||zxid-m.mobileservice.cn^
 ||configsvr.msf.3g.qq.com^
 ||ieonlinews.microsoft.com^
@@ -102,6 +106,8 @@
 ||clientservices.googleapis.com^
 ||firebaselogging.googleapis.com^
 ||nexusrules.officeapps.live.com^
+||firebaseremoteconfig.googleapis.com^
+||adash-emas.cn-hangzhou.aliyuncs.com^
 #小米
 ||api.sec.miui.com^
 ||tz.sec.xiaomi.com^
