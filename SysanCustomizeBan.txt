@@ -67,9 +67,11 @@
 ||loggw.alipay.com.cn^
 ||loggw.alipaydns.com^
 ||worldwide.sogou.com^
+||audid-api.taobao.com^
 ||szlong.weixin.qq.com^
 ||android.bugly.qq.com^
 ||dataflow.biliapi.com^
+||dns.weixin.qq.com.cn^
 ||collector.github.com^
 ||google-analytics.com^
 ||adashbc.ut.taobao.com^
