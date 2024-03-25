@@ -2,6 +2,13 @@
 #GO FUCK U SELF CN ADs
 ########################################################
 #url=https://github.com/l2H8/SysanBanADs
+
+#########################无效规则########################
+||_4443._https.dns.l2h8.cn^
+||_8998._https.nas.l2h8.cn^
+||_8998._https.img.l2h8.cn^
+||_8998._https.pan.l2h8.cn^
+||_8998._https.pass.l2h8.cn^
 ########################正则表达式#######################
 /snssdk.*/
 /iadsdk.*/
