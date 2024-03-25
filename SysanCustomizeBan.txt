@@ -12,7 +12,7 @@
 /mgsdk-sign.*/
 /bytefcdnrd.*/
 /pangolin-sdk.*/
-
+#########################普通规则########################
 ||ad-*.net^
 ||mssdk.volces.com^
 ||log1.cmpassport.com^
