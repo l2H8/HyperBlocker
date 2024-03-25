@@ -34,6 +34,7 @@
 ||httpdns.n.netease.com^
 #########################普通规则########################
 ||id6.me^
+||lnk0.com^
 ||getui.net^
 ||getui.com^
 ||imtmp.net^
@@ -44,6 +45,7 @@
 ||im-x.jd.com^
 ||tracking*.*^
 ||adv.ccb.com^
+||miaozhen.com^
 ||qchannel*.cn^
 ||trace.qq.com^
 ||auth.wosms.cn^
@@ -64,6 +66,8 @@
 ||firevent.jd.com^
 ||ynuf.aliapp.org^
 ||up-hl.3g.qq.com^
+||mon.zijieapi.com^
+||qqdata.ab.qq.com^
 ||yun-hl.3g.qq.com^
 ||imageadv.ccb.com^
 ||ios.bugly.qq.com^
@@ -86,6 +90,7 @@
 ||guid.tpns.tencent.com^
 ||adashxgc.ut.taobao.com^
 ||openjmacs.m.taobao.com^
+||qappcenterv6.3g.qq.com^
 ||zxid-m.mobileservice.cn^
 ||configsvr.msf.3g.qq.com^
 ||ieonlinews.microsoft.com^
