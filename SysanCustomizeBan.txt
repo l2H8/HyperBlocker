@@ -9,6 +9,7 @@
 ||_8998._https.img.l2h8.cn^
 ||_8998._https.pan.l2h8.cn^
 ||_8998._https.pass.l2h8.cn^
+||_8998._https.blog.l2h8.cn^
 ########################正则表达式#######################
 /snssdk.*/
 /iadsdk.*/
