@@ -63,6 +63,7 @@
 ||collector.github.com^
 ||google-analytics.com^
 ||adashbc.ut.taobao.com^
+||guid.tpns.tencent.com^
 ||openjmacs.m.taobao.com^
 ||zxid-m.mobileservice.cn^
 ||configsvr.msf.3g.qq.com^
