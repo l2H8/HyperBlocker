@@ -71,6 +71,7 @@
 ||sdk.open.phone.igexin.com^
 ||events.data.microsoft.com^
 ||amap-aos-info-nogw.amap.com^
+||clientservices.googleapis.com^
 ||firebaselogging.googleapis.com^
 ||nexusrules.officeapps.live.com^
 #小米
