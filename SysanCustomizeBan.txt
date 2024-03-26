@@ -40,7 +40,9 @@
 /umengcloud.*/
 ||umengcloud.com^
 ###########################网易##########################
-||ir-sdk.dun.163.com^
+||dun.163.com^
+||dun.163yun.com^
+||cstaticdun.126.net^
 ||httpdns.n.netease.com^
 ###########################小米##########################
 ||ccc.sys.miui.com^
