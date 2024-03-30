@@ -3,12 +3,21 @@
 ########################################################
 #url=https://github.com/l2H8/SysanBanADs
 
-#########################无效规则########################
+#########################无效请求########################
 ||_4443._https.dns.l2h8.cn^
 ||_8998._https.nas.l2h8.cn^
 ||_8998._https.img.l2h8.cn^
 ||_8998._https.pan.l2h8.cn^
 ||_8998._https.pass.l2h8.cn^
+#########################IP请求#########################
+||ip138.com^
+||ipinfo.io^
+||api.ip.sb^
+||ip-api.com^
+||api.skk.moe^
+||surfsharkdns.com^
+||fastly-analytics.com^
+||dns-detect.alicdn.com^
 ########################正则表达式#######################
 /snssdk.*/
 /iadsdk.*/
@@ -40,6 +49,10 @@
 /umengcloud.*/
 ||umengcloud.com^
 ###########################网易##########################
+||dun.163.com^
+||dun.163yun.com^
+||nstool.netease.com^
+||cstaticdun.126.net^
 ||httpdns.n.netease.com^
 ###########################小米##########################
 ||ccc.sys.miui.com^
@@ -74,9 +87,7 @@
 ||tracking*.*^
 ||adv.ccb.com^
 ||kl.67it.com^
-||woozooo.com^
 ||dg.k.jd.com^
-||woozooo.com^
 ||miaozhen.com^
 ||qchannel*.cn^
 ||trace.qq.com^
