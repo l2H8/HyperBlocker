@@ -71,11 +71,13 @@
 ||security.browser.miui.com^
 #########################普通规则########################
 ||id6.me^
+||51y5.net^
 ||lnk0.com^
 ||gvt2.com^
 ||getui.net^
 ||getui.com^
 ||imtmp.net^
+||sentry.io^
 ||gdt.qq.com^
 ||gepush.com^
 ||mdt.qq.com^
@@ -91,6 +93,7 @@
 ||miaozhen.com^
 ||qchannel*.cn^
 ||trace.qq.com^
+||*.mmstat.com^
 ||als.baidu.com^
 ||beacon.qq.com^
 ||auth.wosms.cn^
@@ -123,6 +126,8 @@
 ||shouji.sogou.com^
 ||rdelivery.qq.com^
 ||data.bilibili.com^
+||rtbapi.douyucdn.cn^
+||sjarvis.taobao.com^
 ||enrichgw.10010.com^
 ||metrics.icloud.com^
 ||etl.xlmc.sandai.net^
@@ -137,6 +142,7 @@
 ||dns.weixin.qq.com.cn^
 ||collector.github.com^
 ||google-analytics.com^
+||dotserver.douyucdn.cn^
 ||adashbc.ut.taobao.com^
 ||guid.tpns.tencent.com^
 ||adashxgc.ut.taobao.com^
