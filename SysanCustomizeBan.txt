@@ -74,6 +74,7 @@
 ||51y5.net^
 ||lnk0.com^
 ||gvt2.com^
+||gvt1.com^
 ||getui.net^
 ||getui.com^
 ||imtmp.net^
@@ -90,6 +91,7 @@
 ||adv.ccb.com^
 ||kl.67it.com^
 ||dg.k.jd.com^
+||gvt1-cn.com^
 ||miaozhen.com^
 ||qchannel*.cn^
 ||trace.qq.com^
