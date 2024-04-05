@@ -75,6 +75,7 @@
 ||lnk0.com^
 ||gvt2.com^
 ||gvt1.com^
+||e.qq.com^
 ||getui.net^
 ||getui.com^
 ||imtmp.net^
@@ -83,6 +84,7 @@
 ||gepush.com^
 ||mdt.qq.com^
 ||perfops.io^
+||*.tanx.com^
 ||pingfore*.*^
 ||telecome.cn^
 ||unioncom.cc^
@@ -92,6 +94,7 @@
 ||kl.67it.com^
 ||dg.k.jd.com^
 ||gvt1-cn.com^
+||aegis.qq.com^
 ||miaozhen.com^
 ||qchannel*.cn^
 ||trace.qq.com^
@@ -127,6 +130,7 @@
 ||ios.bugly.qq.com^
 ||shouji.sogou.com^
 ||rdelivery.qq.com^
+||amdc.m.taobao.com^
 ||data.bilibili.com^
 ||rtbapi.douyucdn.cn^
 ||sjarvis.taobao.com^
@@ -137,6 +141,8 @@
 ||loggw.alipay.com.cn^
 ||loggw.alipaydns.com^
 ||worldwide.sogou.com^
+||statics.woozooo.com^
+||sessions.bugsnag.com^
 ||audid-api.taobao.com^
 ||szlong.weixin.qq.com^
 ||android.bugly.qq.com^
@@ -144,6 +150,7 @@
 ||dns.weixin.qq.com.cn^
 ||collector.github.com^
 ||google-analytics.com^
+||jnn-pa.googleapis.com^
 ||dotserver.douyucdn.cn^
 ||adashbc.ut.taobao.com^
 ||guid.tpns.tencent.com^
@@ -156,12 +163,14 @@
 ||beacon-api.aliyuncs.com^
 ||zxid-m.mobileservice.cn^
 ||configsvr.msf.3g.qq.com^
+||tpstelemetry.tencent.com^
 ||ieonlinews.microsoft.com^
 ||sdk.open.phone.igexin.com^
 ||events.data.microsoft.com^
 ||amap-aos-info-nogw.amap.com^
 ||dg.k.jd.com.gslb.qianxun.com^
 ||clientservices.googleapis.com^
+||zconfig.alibabausercontent.com^
 ||firebaselogging.googleapis.com^
 ||nexusrules.officeapps.live.com^
 ||firebaseremoteconfig.googleapis.com^
