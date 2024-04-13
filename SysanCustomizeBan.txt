@@ -159,6 +159,7 @@
 ||dns.weixin.qq.com.cn^
 ||collector.github.com^
 ||google-analytics.com^
+||fastly-analytics.com^
 ||*-tracker.biliapi.net^
 ||jnn-pa.googleapis.com^
 ||dotserver.douyucdn.cn^
