@@ -56,12 +56,13 @@
 ||httpdns.n.netease.com^
 ###########################小米##########################
 ||ad.xiaomi.com^
-||ccc.sys.miui.com^
+||adv.sec.miui.com^
 ||api.sec.miui.com^
-||data.sec.miui.com^
-||tz.sec.xiaomi.com^
+||ccc.sys.miui.com^
 ||a0.app.xiaomi.com^
+||data.sec.miui.com^
 ||metok.sys.miui.com^
+||tz.sec.xiaomi.com^
 ||r.browser.miui.com^
 ||o2o.api.xiaomi.com^
 ||app.chat.xiaomi.net^
