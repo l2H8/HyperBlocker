@@ -108,6 +108,7 @@
 ||qchannel*.cn^
 ||trace.qq.com^
 ||*.mmstat.com^
+||pushcrew.com^
 ||policy.jd.com^
 ||als.baidu.com^
 ||beacon.qq.com^
@@ -156,6 +157,7 @@
 ||loggw.alipaydns.com^
 ||worldwide.sogou.com^
 ||statics.woozooo.com^
+||miniapp.bilibili.com^
 ||sessions.bugsnag.com^
 ||audid-api.taobao.com^
 ||szlong.weixin.qq.com^
@@ -164,6 +166,7 @@
 ||dns.weixin.qq.com.cn^
 ||collector.github.com^
 ||google-analytics.com^
+||*-tracker.biliapi.net^
 ||jnn-pa.googleapis.com^
 ||dotserver.douyucdn.cn^
 ||adashbc.ut.taobao.com^
