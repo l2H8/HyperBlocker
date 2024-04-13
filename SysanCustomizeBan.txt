@@ -157,6 +157,7 @@
 ||loggw.alipaydns.com^
 ||worldwide.sogou.com^
 ||statics.woozooo.com^
+||ad.tencentmusic.com^
 ||miniapp.bilibili.com^
 ||sessions.bugsnag.com^
 ||audid-api.taobao.com^
