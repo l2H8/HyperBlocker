@@ -186,5 +186,7 @@
 ||zconfig.alibabausercontent.com^
 ||firebaselogging.googleapis.com^
 ||nexusrules.officeapps.live.com^
+||firebase-settings.crashlytics.com^
 ||firebaseremoteconfig.googleapis.com^
 ||adash-emas.cn-hangzhou.aliyuncs.com^
+||firebaseinstallations.googleapis.com^
