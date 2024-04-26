@@ -190,3 +190,4 @@
 ||firebaseremoteconfig.googleapis.com^
 ||adash-emas.cn-hangzhou.aliyuncs.com^
 ||firebaseinstallations.googleapis.com^
+||apd-pcdnwxlogin.teg.tencent-cloud.net^
