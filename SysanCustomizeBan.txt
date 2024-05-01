@@ -4,6 +4,7 @@
 #url=https://github.com/l2H8/SysanBanADs
 
 #########################无效请求########################
+||ip6.arpa^
 ||_4443._https.dns.l2h8.cn^
 ||_8998._https.nas.l2h8.cn^
 ||_8998._https.img.l2h8.cn^
