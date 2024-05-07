@@ -79,6 +79,7 @@
 ||getui.com^
 ||imtmp.net^
 ||sentry.io^
+||ip.03k.org^
 ||dutils.com^
 ||gdt.qq.com^
 ||gepush.com^
@@ -114,6 +115,7 @@
 ||log.umsns.com^
 ||dig.bdurl.net^
 ||soup.v.qq.com^
+||whoami.03k.org^
 ||wcp.taobao.com^
 ||ipv6.kg.qq.com^
 ||log.tbs.qq.com^
