@@ -37,3 +37,4 @@
 ||data.mistat.xiaomi.com^
 ||resolver.msg.xiaomi.net^
 ||security.browser.miui.com^
+||api.tw06.xlmc.sec.miui.com^
