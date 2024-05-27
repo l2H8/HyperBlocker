@@ -39,4 +39,3 @@
 ||security.browser.miui.com^
 ||api.tw06.xlmc.sec.miui.com^
 ###########################禁止HTTPDNS##########################
-^(.*\.)?(doh\.dns\.apple\.com|dns\.jd\.com|httpdns\.browser\.miui\.com|httpdns\.danuoyi\.tbcache\.com|music\.httpdns\.c\.163\.com|httpdns\.n\.netease\.com|httpdns\.music\.163\.com|httpdns\.volcengineapi\.com|httpdns-sdk\.n\.netease\.com|lofter\.httpdns\.c\.163\.com|httpdns\.gslb\.yy\.com|passport\.dns\.iqiyi\.com|cz15\.now-dns\.top|httpdns-sc\.aliyuncs\.com|jnox\.now-dns\.top|h1-us\.iot-dns\.com|gaut\.now-dns\.net|doujin-assets\.dns\.doujin\.dmm\.co\.jp|httpdns\.yunxindns\.com|httpdns\.n\.shifen\.com|dig\.zjurl\.cn|.*\.dns\.cross\.gt|.*\.compute\.hwclouds-dns\.com|httpdns\.c\.cdnhwc2\.com|httpdns1\.cc\.cdnhwc5\.com|httpdns\.platform
