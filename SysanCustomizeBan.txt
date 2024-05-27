@@ -21,7 +21,6 @@
 ||adv.sec.miui.com^
 ||api.sec.miui.com^
 ||ccc.sys.miui.com^
-||api.ad.xiaomi.com^
 ||a0.app.xiaomi.com^
 ||data.sec.miui.com^
 ||metok.sys.miui.com^
