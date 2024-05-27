@@ -5,10 +5,7 @@
 
 
 #########################放行规则########################
-@@||dns.l2h8.cn^
-@@||ddns.l2h8.cn^
-@@||data.bilibili.com^
-@@||avatar.coolapk.com^
+@@||*.l2h8.cn^
 #########################数字联盟########################
 ||shuzilm.cn^
 #########################字节跳动########################
@@ -40,7 +37,7 @@
 ||resolver.msg.xiaomi.net^
 ||security.browser.miui.com^
 ||api.tw06.xlmc.sec.miui.com^
-
-/dns./
-/dig./
-/httpdns./
+###########################禁止HTTPDNS##########################
+/^dig\.$/
+/^dns\.$/
+/^httpdns\.$/
