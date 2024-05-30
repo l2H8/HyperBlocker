@@ -46,4 +46,4 @@
 ||pangolin-sdk-toutiao*.com^
 
 #禁止pcdn
-/*pcdn*/
+/pcdn/
