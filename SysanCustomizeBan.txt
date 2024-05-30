@@ -48,3 +48,8 @@
 
 #禁止pcdn
 /pcdn/
+
+#无效解析
+||uc.cmd^
+||*_https*.cn
+||*_https*.com
