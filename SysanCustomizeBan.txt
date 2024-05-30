@@ -4,19 +4,7 @@
 #url=https://github.com/l2H8/SysanBanADs
 
 
-#########################放行规则########################
-@@||data.bilibili.com^
-#########################数字联盟########################
-||shuzilm.cn^
-#########################字节跳动########################
-||mon.zijieapi.com^
-||tnc3-bjlgy.zijieapi.com^
-||tnc3-alisc1.zijieapi.com^
-||tnc3-aliec2.zijieapi.com^
-#########################友盟广告########################
-||umeng.com^
-||umengcloud.com^
-###########################小米##########################
+#小米
 ||ad.xiaomi.com^
 ||adv.sec.miui.com^
 ||api.sec.miui.com^
@@ -38,4 +26,21 @@
 ||resolver.msg.xiaomi.net^
 ||security.browser.miui.com^
 ||api.tw06.xlmc.sec.miui.com^
-###########################禁止HTTPDNS##########################
+
+#广告SDK
+||umeng.com^
+||shuzilm.cn^
+||ib.snssdk.com^
+||mon.snssdk.com^
+||umengcloud.com^
+||log.zijieapi.com^
+||mon.zijieapi.com^
+||toblog.ctobsnssdk.com^
+||tnc3-bjlgy.zijieapi.com^
+||tnc3-alisc1.zijieapi.com^
+||tnc3-aliec2.zijieapi.com^
+||tobapplog.ctobsnssdk.com^
+||pangolin-sdk-toutiao*.com^
+
+#禁止pcdn
+/*pcdn*/
