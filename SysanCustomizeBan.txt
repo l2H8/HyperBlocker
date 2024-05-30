@@ -30,11 +30,14 @@
 #广告SDK
 ||umeng.com^
 ||shuzilm.cn^
+||gdtimg.com^
 ||ib.snssdk.com^
 ||mon.snssdk.com^
 ||umengcloud.com^
 ||log.zijieapi.com^
 ||mon.zijieapi.com^
+||mssdk.volces.com^
+||pglstatp-toutiao.com^
 ||toblog.ctobsnssdk.com^
 ||tnc3-bjlgy.zijieapi.com^
 ||tnc3-alisc1.zijieapi.com^
