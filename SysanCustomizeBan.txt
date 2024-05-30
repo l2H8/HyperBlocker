@@ -29,8 +29,9 @@
 
 #广告SDK
 ||umeng.com^
-||shuzilm.cn^
 ||gdtimg.com^
+||shuzilm.cn^
+||miaozhen.com^
 ||ib.snssdk.com^
 ||mon.snssdk.com^
 ||umengcloud.com^
