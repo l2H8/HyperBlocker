@@ -6,7 +6,6 @@
 
 #小米
 ||ad.xiaomi.com^
-||api.miwifi.com^
 ||adv.sec.miui.com^
 ||api.sec.miui.com^
 ||ccc.sys.miui.com^
@@ -54,3 +53,7 @@
 ||uc.cmd^
 ||*_https*.cn^
 ||*_https*.com^
+
+#指定IP
+123.123.123.123 api.miwifi.com
+123.123.123.123 data.bilibili.com
