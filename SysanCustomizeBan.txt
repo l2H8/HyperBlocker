@@ -6,6 +6,7 @@
 
 #小米
 ||ad.xiaomi.com^
+||api.miwifi.com^
 ||adv.sec.miui.com^
 ||api.sec.miui.com^
 ||ccc.sys.miui.com^
@@ -51,5 +52,5 @@
 
 #无效解析
 ||uc.cmd^
-||*_https*.cn
-||*_https*.com
+||*_https*.cn^
+||*_https*.com^
