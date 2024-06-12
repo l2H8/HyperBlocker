@@ -20,6 +20,7 @@
 ||miui-fxcse.avlyun.com^
 ||data.mistat.xiaomi.com^
 ||resolver.msg.xiaomi.net^
+||api.installer.xiaomi.com^
 ||security.browser.miui.com^
 
 #广告SDK
