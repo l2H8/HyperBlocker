@@ -53,6 +53,12 @@
 
 ||bugly.qq.com^
 ||ac.dun.163.com^
+||doubleclick.net^
+||ping.*.sogou.com^
 ||ac.dun.163yun.com^
+||etl.xlmc.sandai.net^
+||googletagmanager.com^
 ||sentry.music.163.com^
+||google-analytics.com^
 ||guid.tpns.tencent.com^
+||analyticsnew.overwolf.com^
