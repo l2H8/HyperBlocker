@@ -6,7 +6,9 @@
 
 #小米
 ||ad.xiaomi.com^
+||adv.sec.miui.com^
 ||ccc.sys.miui.com^
+||data.sec.miui.com^
 ||a0.app.xiaomi.com^
 ||metok.sys.miui.com^
 ||r.browser.miui.com^
@@ -24,6 +26,8 @@
 ||umeng.com^
 ||gdtimg.com^
 ||shuzilm.cn^
+||unioncom.cc^
+||telecome.cn^
 ||miaozhen.com^
 ||ib.snssdk.com^
 ||mon.snssdk.com^
@@ -33,9 +37,6 @@
 ||mssdk.volces.com^
 ||pglstatp-toutiao.com^
 ||toblog.ctobsnssdk.com^
-||tnc3-bjlgy.zijieapi.com^
-||tnc3-alisc1.zijieapi.com^
-||tnc3-aliec2.zijieapi.com^
 ||tobapplog.ctobsnssdk.com^
 ||pangolin-sdk-toutiao*.com^
 
@@ -49,3 +50,9 @@
 
 #指定IP
 127.0.0.1 data.bilibili.com
+
+||bugly.qq.com^
+||ac.dun.163.com^
+||ac.dun.163yun.com^
+||sentry.music.163.com^
+||guid.tpns.tencent.com^
