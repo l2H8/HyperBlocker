@@ -6,16 +6,20 @@
 
 #小米
 ||ad.xiaomi.com^
+||api.miwifi.com^
 ||adv.sec.miui.com^
 ||ccc.sys.miui.com^
 ||data.sec.miui.com^
 ||a0.app.xiaomi.com^
+||xlmc.sec.miui.com^
 ||metok.sys.miui.com^
 ||r.browser.miui.com^
 ||o2o.api.xiaomi.com^
+||etl.xlmc.sandai.net^
 ||app.chat.xiaomi.net^
 ||a.market.xiaomi.com^
 ||hd.browser.miui.com^
+||auth.be.sec.miui.com^
 ||tracker.ai.xiaomi.com^
 ||miui-fxcse.avlyun.com^
 ||data.mistat.xiaomi.com^
@@ -32,11 +36,15 @@
 ||ib.snssdk.com^
 ||mon.snssdk.com^
 ||umengcloud.com^
+||shouji.sogou.com^
 ||log.zijieapi.com^
 ||mon.zijieapi.com^
 ||mssdk.volces.com^
 ||pglstatp-toutiao.com^
 ||toblog.ctobsnssdk.com^
+||tnc3-bjlgy.zijieapi.com^
+||tnc3-alisc1.zijieapi.com^
+||tnc3-aliec2.zijieapi.com^
 ||tobapplog.ctobsnssdk.com^
 ||pangolin-sdk-toutiao*.com^
 
@@ -48,17 +56,28 @@
 ||*_https*.cn^
 ||*_https*.com^
 
-#指定IP
-127.0.0.1 data.bilibili.com
-
+||e.qq.com^
+||ucweb.com^
+||rqd.qq.com^
+||gdt.qq.com^
+||mdt.qq.com^
+||m.uczzd.cn^
+||trace.qq.com^
+||aegis.qq.com^
+||hm.baidu.com^
 ||bugly.qq.com^
+||tdid.m.qq.com^
+||beacon.qq.com^
 ||ac.dun.163.com^
 ||doubleclick.net^
+||qqdata.ab.qq.com^
 ||ping.*.sogou.com^
 ||ac.dun.163yun.com^
-||etl.xlmc.sandai.net^
+||data.bilibili.com^
 ||googletagmanager.com^
 ||sentry.music.163.com^
 ||google-analytics.com^
 ||guid.tpns.tencent.com^
+||qappcenterv6.3g.qq.com^
+||tpstelemetry.tencent.com^
 ||analyticsnew.overwolf.com^
