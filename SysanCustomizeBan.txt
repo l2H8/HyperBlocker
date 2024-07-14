@@ -4,6 +4,12 @@
 #url=https://github.com/l2H8/SysanBanADs
 
 
+
+@@||storage.live.com^
+@@||api.huangye.miui.com^
+@@||settings-win.data.microsoft.com^
+
+
 #小米
 ||ad.xiaomi.com^
 ||api.miwifi.com^
@@ -24,6 +30,7 @@
 ||miui-fxcse.avlyun.com^
 ||data.mistat.xiaomi.com^
 ||resolver.msg.xiaomi.net^
+||api.installer.xiaomi.com^
 ||security.browser.miui.com^
 
 #广告SDK
@@ -31,6 +38,7 @@
 ||jpush.cn^
 ||jpush.io^
 ||umeng.com^
+||imtmp.net^
 ||getui.com^
 ||ucweb.com^
 ||gdtimg.com^
@@ -79,12 +87,15 @@
 ||log.tbs.qq.com^
 ||ac.dun.163.com^
 ||doubleclick.net^
+||woodpecker.uc.cn^
+||rdelivery.qq.com^
 ||qqdata.ab.qq.com^
 ||ping.*.sogou.com^
 ||ac.dun.163yun.com^
 ||data.bilibili.com^
 ||ipv4.music.163.com^
 ||ipv6.music.163.com^
+||app-measurement.com^
 ||dns.weixin.qq.com.cn^
 ||netapm.music.163.com^
 ||googletagmanager.com^
@@ -96,8 +107,11 @@
 ||jnn-pa.googleapis.com^
 ||api.kingdata.ksyun.com^
 ||qappcenterv6.3g.qq.com^
+||beacon-api.aliyuncs.com^
 ||configsvr.msf.3g.qq.com^
 ||clientlog*.music.163.com^
 ||tpstelemetry.tencent.com^
 ||analyticsnew.overwolf.com^
+||footprints-pa.googleapis.com^
 ||natdetection.onethingpcs.com^
+||adash-emas.cn-hangzhou.aliyuncs.com^
