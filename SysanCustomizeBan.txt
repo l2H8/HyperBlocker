@@ -45,8 +45,10 @@
 ||dutils.com^
 ||gepush.com^
 ||shuzilm.cn^
+||perfops.io^
 ||unioncom.cc^
 ||telecome.cn^
+||worldssl.net^
 ||miaozhen.com^
 ||ib.snssdk.com^
 ||mon.snssdk.com^
@@ -56,6 +58,7 @@
 ||mon.zijieapi.com^
 ||mssdk.volces.com^
 ||easytomessage.com^
+||fastly-analytics.com^
 ||pglstatp-toutiao.com^
 ||toblog.ctobsnssdk.com^
 ||tnc3-bjlgy.zijieapi.com^
@@ -115,3 +118,4 @@
 ||footprints-pa.googleapis.com^
 ||natdetection.onethingpcs.com^
 ||adash-emas.cn-hangzhou.aliyuncs.com^
+||apd-pcdnwxstat.teg.tencent-cloud.net^
