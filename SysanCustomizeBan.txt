@@ -34,9 +34,13 @@
 ||security.browser.miui.com^
 
 #广告SDK
+||51.la^
 ||mob.com^
+||e.qq.com^
 ||jpush.cn^
 ||jpush.io^
+||wwads.cn^
+||beizi.biz^
 ||umeng.com^
 ||imtmp.net^
 ||getui.com^
@@ -46,13 +50,19 @@
 ||gepush.com^
 ||shuzilm.cn^
 ||perfops.io^
+||adkwai.com^
+||adukwai.com^
+||effirst.com^
 ||unioncom.cc^
 ||telecome.cn^
 ||worldssl.net^
 ||miaozhen.com^
 ||ib.snssdk.com^
 ||mon.snssdk.com^
+||e.kuaishou.com^
 ||umengcloud.com^
+||csjplatform.com^
+||union.baidu.com^
 ||mobileservice.cn^
 ||shouji.sogou.com^
 ||log.zijieapi.com^
@@ -73,12 +83,14 @@
 ||*_https*.cn^
 ||*_https*.com^
 
-||e.qq.com^
+
 ||rqd.qq.com^
 ||gdt.qq.com^
 ||mdt.qq.com^
 ||m.uczzd.cn^
 ||p.l.qq.com^
+||xlog.jd.com^
+||track.uc.cn^
 ||tj.b.qq.com^
 ||qchannel*.cn^
 ||trace.qq.com^
@@ -92,12 +104,14 @@
 ||play.kakao.com^
 ||log.tbs.qq.com^
 ||ac.dun.163.com^
+||mercury.jd.com^
 ||doubleclick.net^
 ||cfg.imtt.qq.com^
 ||woodpecker.uc.cn^
 ||rdelivery.qq.com^
 ||qqdata.ab.qq.com^
 ||ping.*.sogou.com^
+||track.lc.quark.cn^
 ||ac.dun.163yun.com^
 ||data.bilibili.com^
 ||ipv4.music.163.com^
@@ -122,6 +136,7 @@
 ||adbehavior.ximalaya.com^
 ||beacon-api.aliyuncs.com^
 ||configsvr.msf.3g.qq.com^
+||ieonlinews.microsoft.com^
 ||clientlog*.music.163.com^
 ||tpstelemetry.tencent.com^
 ||analyticsnew.overwolf.com^
