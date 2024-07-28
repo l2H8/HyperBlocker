@@ -3,12 +3,11 @@
 ########################################################
 #url=https://github.com/l2H8/SysanBanADs
 
-
-
 @@||storage.live.com^
+@@||aweme.snssdk.com^
+@@||stream.snssdk.com^
 @@||api.huangye.miui.com^
 @@||settings-win.data.microsoft.com^
-
 
 #小米
 ||ad.xiaomi.com^
@@ -45,6 +44,7 @@
 ||imtmp.net^
 ||getui.com^
 ||ucweb.com^
+||snssdk.com^
 ||gdtimg.com^
 ||dutils.com^
 ||gepush.com^
@@ -57,25 +57,15 @@
 ||telecome.cn^
 ||worldssl.net^
 ||miaozhen.com^
-||ib.snssdk.com^
-||mon.snssdk.com^
+||ctobsnssdk.com^
 ||e.kuaishou.com^
 ||umengcloud.com^
 ||csjplatform.com^
-||union.baidu.com^
 ||mobileservice.cn^
-||shouji.sogou.com^
-||log.zijieapi.com^
-||mon.zijieapi.com^
 ||mssdk.volces.com^
 ||easytomessage.com^
 ||fastly-analytics.com^
 ||pglstatp-toutiao.com^
-||toblog.ctobsnssdk.com^
-||tnc3-bjlgy.zijieapi.com^
-||tnc3-alisc1.zijieapi.com^
-||tnc3-aliec2.zijieapi.com^
-||tobapplog.ctobsnssdk.com^
 ||pangolin-sdk-toutiao*.com^
 
 #无效解析
