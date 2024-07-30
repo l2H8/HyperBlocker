@@ -10,6 +10,7 @@
 @@||settings-win.data.microsoft.com^
 
 #小米
+||ad.mi.com^
 ||ad.xiaomi.com^
 ||api.miwifi.com^
 ||adv.sec.miui.com^
