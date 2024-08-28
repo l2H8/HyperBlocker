@@ -71,8 +71,3 @@
 ||fastly-analytics.com^
 ||pglstatp-toutiao.com^
 ||pangolin-sdk-toutiao*.com^
-
-#无效解析
-||uc.cmd^
-||*_https*.cn^
-||*_https*.com^
