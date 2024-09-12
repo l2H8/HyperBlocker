@@ -12,7 +12,6 @@
 #小米
 ||ad.mi.com^
 ||ad.xiaomi.com^
-||api.miwifi.com^
 ||adv.sec.miui.com^
 ||ccc.sys.miui.com^
 ||data.sec.miui.com^
