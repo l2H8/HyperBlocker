@@ -44,6 +44,7 @@
 ||imtmp.net^
 ||getui.com^
 ||ucweb.com^
+||clarity.ms^
 ||snssdk.com^
 ||gdtimg.com^
 ||dutils.com^
