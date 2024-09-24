@@ -8,7 +8,7 @@
 @@||stream.snssdk.com^
 @@||api.huangye.miui.com^
 @@||settings-win.data.microsoft.com^
-
+########################################################
 #小米
 ||ad.mi.com^
 ||ad.xiaomi.com^
@@ -31,11 +31,10 @@
 ||resolver.msg.xiaomi.net^
 ||api.installer.xiaomi.com^
 ||security.browser.miui.com^
-
+########################################################
 #广告SDK
 ||51.la^
 ||mob.com^
-||e.qq.com^
 ||jpush.cn^
 ||jpush.io^
 ||wwads.cn^
@@ -71,3 +70,9 @@
 ||fastly-analytics.com^
 ||pglstatp-toutiao.com^
 ||pangolin-sdk-toutiao*.com^
+########################################################
+#二级域名拦截
+||e.qq.com^
+||mdt.qq.com^
+||trace.qq.com^
+||live-trace.bilibili.com^
