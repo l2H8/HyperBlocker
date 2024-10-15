@@ -80,6 +80,6 @@
 ||mdt.qq.com^
 ||trace.qq.com^
 ||mumu.nie.netease.com^
-|store-api.mumu.163.com^
+||store-api.mumu.163.com^
 ||live-trace.bilibili.com^
 ||mumu-apk.fp.ps.netease.com^
