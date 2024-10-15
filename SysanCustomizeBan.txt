@@ -7,6 +7,7 @@
 @@||aweme.snssdk.com^
 @@||stream.snssdk.com^
 @@||api.huangye.miui.com^
+@@||login-sh.aki-game.com^
 @@||settings-win.data.microsoft.com^
 ########################################################
 #小米
@@ -73,7 +74,12 @@
 ||pangolin-sdk-toutiao*.com^
 ########################################################
 #二级域名拦截
+||csdn.net^
+|ldmnq.com^
 ||e.qq.com^
 ||mdt.qq.com^
 ||trace.qq.com^
+||mumu.nie.netease.com^
+|store-api.mumu.163.com^
 ||live-trace.bilibili.com^
+||mumu-apk.fp.ps.netease.com^
