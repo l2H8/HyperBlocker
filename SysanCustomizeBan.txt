@@ -75,8 +75,8 @@
 ########################################################
 #二级域名拦截
 ||csdn.net^
-|ldmnq.com^
 ||e.qq.com^
+||ldmnq.com^
 ||mdt.qq.com^
 ||trace.qq.com^
 ||mumu.nie.netease.com^
