@@ -40,6 +40,8 @@
 ||jpush.cn^
 ||jpush.io^
 ||wwads.cn^
+||gvt2.com^
+||gvt3.com^
 ||beizi.biz^
 ||umeng.com^
 ||imtmp.net^
