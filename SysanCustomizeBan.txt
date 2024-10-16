@@ -63,6 +63,7 @@
 ||worldssl.net^
 ||miaozhen.com^
 ||shujupie.com^
+||cookiebot.com^
 ||quantcount.com^
 ||ctobsnssdk.com^
 ||e.kuaishou.com^
