@@ -61,6 +61,7 @@
 ||shuzilm.cn^
 ||perfops.io^
 ||adkwai.com^
+||pub.network^
 ||bootcss.com^
 ||adukwai.com^
 ||effirst.com^
