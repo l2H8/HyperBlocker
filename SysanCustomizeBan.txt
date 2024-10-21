@@ -33,16 +33,19 @@
 ||miui-fxcse.avlyun.com^
 ||api.hybrid.xiaomi.com^
 ||data.mistat.xiaomi.com^
+||etl-xlmc-ssl.sandai.net^
 ||resolver.msg.xiaomi.net^
 ||api.installer.xiaomi.com^
 ||wtradv.market.xiaomi.com^
 ||security.browser.miui.com^
+||api.tw06.xlmc.sec.miui.com^
 ||api.miui.security.xiaomi.com^
 ########################################################
 #广告SDK
 ||51.la^
 ||id6.me^
 ||mob.com^
+||vnet.cn^
 ||jpush.cn^
 ||jpush.io^
 ||wwads.cn^
@@ -82,6 +85,7 @@
 ||easytomessage.com^
 ||fastly-analytics.com^
 ||pglstatp-toutiao.com^
+||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao*.com^
 ########################################################
 #二级域名拦截
@@ -89,6 +93,7 @@
 ||e.qq.com^
 ||ldmnq.com^
 ||mdt.qq.com^
+||gdt.qq.com^
 ||trace.qq.com^
 ||mumu.nie.netease.com^
 ||store-api.mumu.163.com^
