@@ -70,6 +70,7 @@
 ||effirst.com^
 ||unioncom.cc^
 ||telecome.cn^
+||qhupdate.com^
 ||worldssl.net^
 ||miaozhen.com^
 ||shujupie.com^
