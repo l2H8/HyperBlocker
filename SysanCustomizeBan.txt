@@ -46,6 +46,10 @@
 ||id6.me^
 ||mob.com^
 ||vnet.cn^
+||gvt.com^
+||gvt2.com^
+||gvt3.com^
+||gvt4.com^
 ||jpush.cn^
 ||jpush.io^
 ||wwads.cn^
@@ -81,10 +85,7 @@
 ||csjplatform.com^
 ||mobileservice.cn^
 ||mssdk.volces.com^
-||beacons.gvt2.com^
-||beacons*.gvt*.com^
 ||easytomessage.com^
-||beacons.gcp.gvt*.com^
 ||fastly-analytics.com^
 ||pglstatp-toutiao.com^
 ||pangolin-sdk-toutiao.com^
