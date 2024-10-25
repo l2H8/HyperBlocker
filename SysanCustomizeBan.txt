@@ -65,6 +65,7 @@
 ||umeng.com^
 ||imtmp.net^
 ||getui.com^
+||getui.net^
 ||ucweb.com^
 ||clarity.ms^
 ||snssdk.com^
