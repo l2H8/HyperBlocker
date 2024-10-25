@@ -10,6 +10,14 @@
 @@||login-sh.aki-game.com^
 @@||settings-win.data.microsoft.com^
 ########################################################
+#PCDN拦截
+||szbdyd.com^
+||mcdn.bilivideo.cn^
+||tpa-hcdn.iqiyi.com^
+||pcdn.xmcdn.com^
+/.*pcdn.*biliapi.net/
+/.*pcdn.*youku.com/
+########################################################
 #小米
 ||ad.mi.com^
 ||ad.xiaomi.com^
