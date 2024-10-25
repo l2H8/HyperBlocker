@@ -106,6 +106,7 @@
 ||mdt.qq.com^
 ||gdt.qq.com^
 ||trace.qq.com^
+||beacon.qq.com^
 ||mumu.nie.netease.com^
 ||store-api.mumu.163.com^
 ||live-trace.bilibili.com^
