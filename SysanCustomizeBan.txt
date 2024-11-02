@@ -18,6 +18,10 @@
 /.*pcdn.*biliapi.net/
 /.*pcdn.*youku.com/
 ########################################################
+216.239.38.223 mdt.qq.com
+216.239.38.223 api.miwifi.com
+216.239.38.223 data.bilibili.com
+########################################################
 #小米
 ||ad.mi.com^
 ||ad.xiaomi.com^
@@ -29,7 +33,7 @@
 ||metok.sys.miui.com^
 ||r.browser.miui.com^
 ||o2o.api.xiaomi.com^
-||flash.sec.miui.com^
+||flash.sec.miui.com^ 
 ||sentry.d.xiaomi.net^
 ||etl.xlmc.sandai.net^
 ||app.chat.xiaomi.net^
