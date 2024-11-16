@@ -1,6 +1,8 @@
 #SDK
 ||umeng.com^
+||beizi.biz^
 ||shuzilm.cn^
+||qianxun.com^
 ||unioncom.cc^
 ||telecome.cn^
 ||miaozhen.com^
@@ -16,14 +18,34 @@
 ||data.mistat.*.xiaomi.com^
 
 #Zijie#
-#正则表达式
-(.+?)pangolin{1}(.+?)com
-(.+?)pglstatp{1}(.+?)com
-#域名
 ||snssdk.com^
+||bytegoofy.com^
 ||ctobsnssdk.com^
 ||mssdk.volces.com^
+||pglstatp-toutiao.com^
+||tnc0-aliec2.zijieapi.com^
+||pangolin-sdk-toutiao.com^
+||pangolin-sdk-toutiao1.com^
+||pangolin-sdk-toutiao-b.com^
 
 #Tencent
 ||mdt.qq.com^
+||gdt.qq.com^
+||adkwai.com^
+||adbkwai.com^
+||ugdtimg.com^
+||bugly.qq.com^
+||trace.qq.com^
 ||beacon.qq.com^
+||guid.tpns.tencent.com^
+
+#Baidu
+||hm.baidu.com^
+||hmma.baidu.com^
+||mobads.baidu.com^
+||mobads-logs.baidu.com^
+
+#Alibaba
+||adashbc.ut.taobao.com^
+||adashxgc.ut.taobao.com^
+||baichuan-sdk.alicdn.com^
