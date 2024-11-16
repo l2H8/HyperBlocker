@@ -18,8 +18,8 @@
 #Zijie#
 #正则表达式
 (.+?)pangolin{1}(.+?)com
+(.+?)pglstatp{1}(.+?)com
 #域名
 ||snssdk.com^
 ||ctobsnssdk.com^
 ||mssdk.volces.com^
-||pglstatp-toutiao.com^
