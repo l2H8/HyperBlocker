@@ -23,3 +23,7 @@
 ||snssdk.com^
 ||ctobsnssdk.com^
 ||mssdk.volces.com^
+
+#Tencent
+||mdt.qq.com#
+||beacon.qq.com#
