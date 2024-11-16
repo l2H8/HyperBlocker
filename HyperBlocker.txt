@@ -1,9 +1,4 @@
-########################################################
-#GO FUCK U SELF CN ADs
-########################################################
-#url=https://github.com/l2H8/HyperBlocker
-########################################################
-#广告SDK
+#SDK
 ||jpush.cn^
 ||jpush.io^
 ||wwads.cn^
@@ -15,13 +10,22 @@
 ||telecome.cn^
 ||miaozhen.com^
 ||shujupie.com^
+||mouseflow.com^
 ||ctobsnssdk.com^
 ||e.kuaishou.com^
 ||umengcloud.com^
 ||doubleclick.net^
-||mobileservice.cn^
 ||mssdk.volces.com^
+||google-analytics.com^
+||analytics.google.com^
 ||pglstatp-toutiao.com^
 ||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao*.com^
-########################################################
+
+#Xiaomi
+||ad.xiaomi.com^
+||ad.*.xiaomi.com^
+||tracking.miui.com^
+||tracking.*.miui.com^
+||data.mistat.xiaomi.com^
+||data.mistat.*.xiaomi.com^
