@@ -21,4 +21,5 @@
 #域名
 ||snssdk.com^
 ||ctobsnssdk.com^
+||mssdk.volces.com^
 ||pglstatp-toutiao.com^
