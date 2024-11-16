@@ -1,7 +1,7 @@
 #######################################################
 #GO FUCK U SELF CN ADs
 #######################################################
-#url=https://github.com/l2H8/SysanBanADs
+#url=https://github.com/l2H8/HyperBlocker
 
 #IOS更新屏蔽
 ||ocsp.apple.com^
