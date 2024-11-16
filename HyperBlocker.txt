@@ -1,0 +1,27 @@
+########################################################
+#GO FUCK U SELF CN ADs
+########################################################
+#url=https://github.com/l2H8/HyperBlocker
+########################################################
+#广告SDK
+||jpush.cn^
+||jpush.io^
+||wwads.cn^
+||beizi.biz^
+||umeng.com^
+||snssdk.com^
+||shuzilm.cn^
+||unioncom.cc^
+||telecome.cn^
+||miaozhen.com^
+||shujupie.com^
+||ctobsnssdk.com^
+||e.kuaishou.com^
+||umengcloud.com^
+||doubleclick.net^
+||mobileservice.cn^
+||mssdk.volces.com^
+||pglstatp-toutiao.com^
+||pangolin-sdk-toutiao.com^
+||pangolin-sdk-toutiao*.com^
+########################################################
