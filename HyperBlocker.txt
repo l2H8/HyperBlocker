@@ -25,5 +25,5 @@
 ||mssdk.volces.com^
 
 #Tencent
-||mdt.qq.com#
-||beacon.qq.com#
+||mdt.qq.com^
+||beacon.qq.com^
