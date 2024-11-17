@@ -5,6 +5,7 @@
 ||qianxun.com^
 ||unioncom.cc^
 ||telecome.cn^
+||tracking*.*^
 ||miaozhen.com^
 ||shujupie.com^
 ||umengcloud.com^
@@ -22,6 +23,7 @@
 ||bytegoofy.com^
 ||ctobsnssdk.com^
 ||mssdk.volces.com^
+||tnc*.zijieapi.com^
 ||pglstatp-toutiao.com^
 ||tnc0-aliec2.zijieapi.com^
 ||pangolin-sdk-toutiao.com^
@@ -29,6 +31,7 @@
 ||pangolin-sdk-toutiao-b.com^
 
 #Tencent
+||e.qq.com^
 ||mdt.qq.com^
 ||gdt.qq.com^
 ||adkwai.com^
@@ -38,6 +41,7 @@
 ||trace.qq.com^
 ||beacon.qq.com^
 ||tpns.tencent.com^
+||snowflake.qq.com^
 
 #Baidu
 ||hm.baidu.com^
@@ -49,3 +53,7 @@
 ||adashbc.ut.taobao.com^
 ||adashxgc.ut.taobao.com^
 ||baichuan-sdk.alicdn.com^
+
+#Google
+||gvt1.com^
+||gvt1-cn.com^
