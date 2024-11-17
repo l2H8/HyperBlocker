@@ -37,7 +37,7 @@
 ||bugly.qq.com^
 ||trace.qq.com^
 ||beacon.qq.com^
-||guid.tpns.tencent.com^
+||tpns.tencent.com^
 
 #Baidu
 ||hm.baidu.com^
