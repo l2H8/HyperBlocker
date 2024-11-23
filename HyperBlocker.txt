@@ -22,12 +22,14 @@
 ||tracking.miui.com^
 ||tracking.*.miui.com^
 ||qsb.browser.miui.com^
+||auth.be.sec.miui.com^
 ||data.mistat.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
 ||data.mistat.*.xiaomi.com^
 ||api.installer.xiaomi.com^
 ||api.tw06.xlmc.sec.miui.com^
 ||api.miui.security.xiaomi.com^
+||logupdate.avlyun.sec.miui.com^
 
 #Zijie#
 ||snssdk.com^
@@ -51,19 +53,32 @@
 ||mdt.qq.com^
 ||gdt.qq.com^
 ||p2p.qq.com^
+||rs1.qq.com^
+||d3g.qq.com^
 ||adkwai.com^
+||tj.b.qq.com^
 ||adbkwai.com^
 ||ugdtimg.com^
 ||aegis.qq.com^
 ||bugly.qq.com^
 ||trace.qq.com^
+||btrace.qq.com^
 ||stat.y.qq.com^
 ||beacon.qq.com^
 ||sngapm.qq.com^
+||mtrace.qq.com^
+||scdown.qq.com^
 ||rmonitor.qq.com^
 ||tpns.tencent.com^
 ||snowflake.qq.com^
+||pgdt.ugdtimg.com^
+||android.rqd.qq.com^
+||sdksp.video.qq.com^
+||bkcommdata.v.qq.com^
 ||dns.weixin.qq.com.cn^
+||guid.tpns.tencent.com^
+||qappcenterv6.3g.qq.com^
+||mdevstat.qqlive.qq.com^
 ||configsvr.msf.3g.qq.com^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
@@ -79,6 +94,7 @@
 ||adashbc.ut.taobao.com^
 ||adashxgc.ut.taobao.com^
 ||baichuan-sdk.alicdn.com^
+||beacon-api.aliyuncs.com^
 ||adash-emas.cn-hangzhou.aliyuncs.com^
 
 #Google
@@ -91,6 +107,10 @@
 ||e.kuaishou.cn^
 ||janapi.jd.com^
 ||da.netease.com^
+||cgicol.amap.com^
 ||grpc.biliapi.net^
+||open.e.kuaishou.com^
 ||open.kuaishouzt.com^
+||dspsdk.pinduoduo.com^
+||api.kingdata.ksyun.com^
 ||live-trace.bilibili.com^
