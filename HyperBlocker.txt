@@ -1,6 +1,7 @@
 #SDK
 ||umeng.com^
 ||beizi.biz^
+||getui.net^
 ||shuzilm.cn^
 ||qianxun.com^
 ||unioncom.cc^
@@ -8,15 +9,25 @@
 ||tracking*.*^
 ||miaozhen.com^
 ||shujupie.com^
+||toushibao.com^
 ||umengcloud.com^
+||fengkongcloud.com^
 
 #Xiaomi
 ||ad.xiaomi.com^
 ||ad.*.xiaomi.com^
+||adv.sec.miui.com^
+||ccc.sys.miui.com^
+||tz.sec.xiaomi.com^
 ||tracking.miui.com^
 ||tracking.*.miui.com^
+||qsb.browser.miui.com^
 ||data.mistat.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
 ||data.mistat.*.xiaomi.com^
+||api.installer.xiaomi.com^
+||api.tw06.xlmc.sec.miui.com^
+||api.miui.security.xiaomi.com^
 
 #Zijie#
 ||snssdk.com^
@@ -25,23 +36,38 @@
 ||mssdk.volces.com^
 ||tnc*.zijieapi.com^
 ||pglstatp-toutiao.com^
+||tnc3-bjlgy.zijieapi.com^
+||tnc3-alisc1.zijieapi.com^
 ||tnc0-aliec2.zijieapi.com^
+||tnc3-aliec2.zijieapi.com^
 ||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao1.com^
 ||pangolin-sdk-toutiao-b.com^
+||log-api.pangolin-sdk-toutiao.com^
+||api-access.pangolin-sdk-toutiao.com^
 
 #Tencent
 ||e.qq.com^
 ||mdt.qq.com^
 ||gdt.qq.com^
+||p2p.qq.com^
 ||adkwai.com^
 ||adbkwai.com^
 ||ugdtimg.com^
+||aegis.qq.com^
 ||bugly.qq.com^
 ||trace.qq.com^
+||stat.y.qq.com^
 ||beacon.qq.com^
+||sngapm.qq.com^
+||rmonitor.qq.com^
 ||tpns.tencent.com^
 ||snowflake.qq.com^
+||dns.weixin.qq.com.cn^
+||configsvr.msf.3g.qq.com^
+||apd-pcdnwxnat.teg.tencent-cloud.net^
+||apd-pcdnwxstat.teg.tencent-cloud.net^
+||apd-pcdnwxlogin.teg.tencent-cloud.net^
 
 #Baidu
 ||hm.baidu.com^
@@ -53,7 +79,18 @@
 ||adashbc.ut.taobao.com^
 ||adashxgc.ut.taobao.com^
 ||baichuan-sdk.alicdn.com^
+||adash-emas.cn-hangzhou.aliyuncs.com^
 
 #Google
 ||gvt1.com^
 ||gvt1-cn.com^
+||googletagmanager.com^
+#===========================================================
+||ugdtimg.com^
+||appsflyer*.*^
+||e.kuaishou.cn^
+||janapi.jd.com^
+||da.netease.com^
+||grpc.biliapi.net^
+||open.kuaishouzt.com^
+||live-trace.bilibili.com^
