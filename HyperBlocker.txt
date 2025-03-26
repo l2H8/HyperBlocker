@@ -3,3 +3,7 @@
 ||aedns.weixin.qq.com^
 ||dns.weixin.qq.com.cn^
 ||support.weixin.qq.com^
+
+
+#########################################
+||in-addr.arpa^
