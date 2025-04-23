@@ -1,5 +1,9 @@
 
+@@||mcdn.bilivideo.cn^
 #########################################
 ||ip6.arpa^
 ||in-addr.arpa^
 ||ipv4only.arpa^
+||sysupwrrdl.vivo.com.cn^
+||sysupgrade.vivo.com.cn^
+||st-sysupgrade.vivo.com.cn^
