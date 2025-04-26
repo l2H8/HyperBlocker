@@ -5,3 +5,7 @@
 ||world-gen.g.aaplimg.com^
 #MIUI&HyperOS
 ||update.miui.com^
+#VIVO
+||sysupwrrdl.vivo.com.cn^
+||sysupgrade.vivo.com.cn^
+||st-sysupgrade.vivo.com.cn^
