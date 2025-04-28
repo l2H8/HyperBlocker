@@ -1,7 +1,5 @@
-
 @@||mcdn.bilivideo.cn^
-#########################################
+
 ||ip6.arpa^
 ||in-addr.arpa^
 ||ipv4only.arpa^
-
