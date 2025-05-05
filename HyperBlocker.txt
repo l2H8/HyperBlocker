@@ -4,4 +4,4 @@
 ||in-addr.arpa^
 ||ipv4only.arpa^
 ||https^
-||_https.^
+||_8998._https.dns.28bit.cn^
