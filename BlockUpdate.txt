@@ -1,9 +1,15 @@
 #IOS
-||ocsp.apple.com^
-||mesu.apple.com^
-||gdmf.apple.com^
-||world-gen.g.aaplimg.com^
+||127.0.0.1 ocsp.apple.com^
+||127.0.0.1 mesu.apple.com^
+||127.0.0.1 gdmf.apple.com^
+||127.0.0.1 world-gen.g.aaplimg.com^
 #MIUI&HyperOS
-||update.miui.com^
+||127.0.0.1 update.miui.com^
 #WindowsUpdate
-||windowsupdate.com^
+||127.0.0.1 windowsupdate.com^
+#Vivo
+||127.0.0.1 sysuptxdl.vivo.com.cn^
+||127.0.0.1 sysupgrade.vivo.com.cn^
+||127.0.0.1 sysupwrrdl.vivo.com.cn^
+||127.0.0.1 stappupgrade.vivo.com.cn^
+||127.0.0.1 st-sysupgrade.vivo.com.cn^
