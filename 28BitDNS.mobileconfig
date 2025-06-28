@@ -15,7 +15,7 @@
 					<string>175.178.13.123</string>
 				</array>
 				<key>ServerName</key>
-				<string>c9bjz.dns.28bit.c</string>
+				<string>c9bjz.dns.28bit.cn</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use 28Bit Encrypted DNS over TLS</string>
